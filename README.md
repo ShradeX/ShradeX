@@ -1,5 +1,5 @@
--Hi, I’m @ShradeX
--I’m interested in coding and app design.
--I’m currently learning python and delving into database structures.
--I’m looking to collaborate on posible app design for discord.
--How to reach me ... Catch me if you can!
+-	Hi, I’m @ShradeX
+-	I’m interested in coding and app design.
+-	I’m currently learning python and delving into database structures.
+-	I’m looking to collaborate on posible app design for discord.
+-	How to reach me ... Catch me if you can!
